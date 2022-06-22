@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ToSky0515
-- 👀 I’m interested in Blockchain and Front-End Development
-- 🌱 I’m currently learning Mobile
-- 💞️ I’m looking to collaborate on BlockChain Development
+- 👀 I am a Senior Web & Blockchain Developer experienced in Shopify, Wordpress, React, Angular, Vue, PHP, Laravel, Node.js, Smart contract, Web3.js, etc.
+- 🌱 I’m currently learning Unity.
+- 💞️ I’m looking to collaborate on Web and Blockchain Develoment
 - 📫 Gmail: tosky0515@gmail.com
 
 <!---
