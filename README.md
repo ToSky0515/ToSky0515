@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ToSky0515
-- 👀 I am a Ecommerce Website Developer experienced in Shopify & Shopify Plus, Bigcommerce, Woocommerce,.
+- 👀 I am a Ecommerce Website Developer experienced in Shopify & Shopify Plus, Bigcommerce, Woocommerce, etc.
 - 🌱 I’m currently learning Blockchain and Unity.
 - 💞️ I’m looking to collaborate on Ecommerce Website Develoment
 
